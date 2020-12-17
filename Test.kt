@@ -55,7 +55,7 @@ fun getPair(array: IntArray, sum: Int) {
 fun maxSum(arr: IntArray, n: Int, k: Int) {
 
     if (n < k) {
-        println("Not a valid k input must be greater than array size  ")
+        println("Not a valid k input must be lesser than array size  ")
 
     }
 
